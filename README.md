@@ -1,4 +1,4 @@
-# onlinegaminganxiety
+# online_gaming_anxiety
 My project’s primary aim was to calculate the correlations between hours of gaming per week (as an independent variable) and narcissism, general anxiety, social phobia and quality of life (as dependent variables). My project also aimed to describe summary statistics for variables within the data set, conduct multiple linear regression, and produce graphs. Sauter and Draschkow's (2017) 'GamingStudy_data.csv' data set was used. Sauter and Draschkow's (2017) survey and data set consisted of questionnaire results about hours of gaming per week, narcissism, general anxiety, social phobia, quality of life, and other demographic information. 
 
 Reference
